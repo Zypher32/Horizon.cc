@@ -1,0 +1,9 @@
+if game.PlaceId == 17625359962 then
+    print("rivals")
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Zypher32/Horizon.cc/main/rivals"))()
+elseif game.PlaceId == 14939963714 then
+    print("jailbird")
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/byfronofficial/horizon.cc/main/jailbird.txt'))()
+else
+    warn("unsupported game")
+end
