@@ -8,6 +8,9 @@ elseif game.PlaceId == 16128274392 or game.PlaceId == 16382328381 or game.PlaceI
     loadstring(game:HttpGet('https://raw.githubusercontent.com/Zypher32/Horizon.cc/main/hoopnation'))()
 elseif game.PlaceId == 8204899140 or game.PlaceId == 8206123457 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/Zypher32/Horizon.cc/main/ff2'))()
+elseif game.PlaceId == 13253735473 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Zypher32/Horizon.cc/main/ts'))()
+
 else
     warn("unsupported game, universal coming soon.")
 end
