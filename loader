@@ -10,7 +10,8 @@ elseif game.PlaceId == 8204899140 or game.PlaceId == 8206123457 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/Zypher32/Horizon.cc/main/ff2'))()
 elseif game.PlaceId == 13253735473 then
     loadstring(game:HttpGet('https://raw.githubusercontent.com/Zypher32/Horizon.cc/main/ts'))()
-
+elseif game.PlaceId == 11177482306 then
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Zypher32/Horizon.cc/main/obf_0T13300sL414Pb6c301ZBpzYPRXWZT2N88Co1pDFuJupaPeCBZ6pOQ5AfAZJ8UBl.lua'))()
 else
     warn("unsupported game, universal coming soon.")
 end
