@@ -382,7 +382,7 @@ do -- Initalize
                             end
 
                             do -- Weapons
-                                Weapon.Text = plr.Character.EquippedTool.Value
+                                Weapon.Text = "Equiped Tool!"
                                 Weapon.Visible = ESP.Drawing.Weapons.Enabled
                                 
                                 
