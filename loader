@@ -1,6 +1,6 @@
 if game.PlaceId == 14939963714 then
     print("jailbird")
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/byfronofficial/horizon.cc/main/jailbird.txt'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Zypher32/Horizon.cc/refs/heads/main/Jailbird'))()
 else
     warn("unsupported game, universal coming soon.")
 end
