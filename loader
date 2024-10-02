@@ -1,6 +1,6 @@
 if game.PlaceId == 14939963714 then
     print("jailbird")
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/Zypher32/Horizon.cc/refs/heads/main/Jailbird'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/Zypher32/Horizon.cc/refs/heads/main/jb'))()
 elseif game.PlaceId == 13253735473 then
     setfflag("DebugRunParallelLuaOnMainThread","True");
     loadstring(game:HttpGet('https://raw.githubusercontent.com/Zypher32/Horizon.cc/refs/heads/main/ts'))()
