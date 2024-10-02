@@ -1,6 +1,6 @@
 --//Library Init
-getgenv().scripttitle = "Horizon.cc | Jailbird V2"
-getgenv().FolderName = "Horizon.cc"
+getgenv().scripttitle = "Comet.pub | Jailbird V2"
+getgenv().FolderName = "Comet.pub"
 loadstring(game:HttpGet('https://raw.githubusercontent.com/Awakenchan/jan/main/JanModifiedSource'))()
 local skybox_assets = loadstring(game:HttpGet("https://raw.githubusercontent.com/BigHacker123/skybox/main/.lua", true))()
 local aimbot = loadstring(game:HttpGet'https://github.com/RunDTM/Zeerox-Aimbot/raw/main/library.lua')()
